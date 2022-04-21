@@ -1,5 +1,5 @@
 # geog458_tweet_geotag
-In this lab, I collected to sets of geotagged tweets. The first involved getting every geotagged tweet from the United States over the course of ten minutes in the afternoon of 4/20. The related map can be found labelled as "map 1," and the text of the tweets were used in the first word cloud. I'm not quite sure what I expected, but it's odd that "Out" was the most common word.
+In this lab, I collected to sets of geotagged tweets. The first involved getting every geotagged tweet from the United States over the course of ten minutes in the afternoon of 4/20. The related map can be found labelled as "map 1," and the text of the tweets were used in the first word cloud. I'm not quite sure what I expected, but it's odd that "Out" was the most common word. Looking through the data, I can't find a pattern, but there are some people using terms like "hang out," which may be the reason. In much of the country, it was already night time, time to relax, so this makes some sense. I also saw at least one use of the word in the term "strike out," as in baseball. This could be another cause. 
 
 ![Map of the US](/img/lab2_map_1.png)
 
